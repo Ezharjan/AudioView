@@ -1,0 +1,27 @@
+{
+  "name": "vudio.js",
+  "version": "1.0.3",
+  "description": "visualization audio using AudioContext and Canvas",
+  "main": "umd/vudio.js",
+  "files": ["umd"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/margox/vudio.js.git"
+  },
+  "keywords": [
+    "audio",
+    "vudio",
+    "canvas",
+    "waveform",
+    "wave"
+  ],
+  "author": "Margox,Alex2wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex2wong/vudio.js/issues"
+  },
+  "homepage": "https://github.com/alex2wong/vudio.js#readme"
+}
